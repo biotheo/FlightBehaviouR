@@ -1,0 +1,9 @@
+Package: FlightBehaviouR
+Type: Package
+Title: Flight Behaviour Package
+Version: 0.1.0
+Authors@R: Angeli M.
+Description: A simple group of function to enhance flight behavior analysis
+License: -
+Encoding: UTF-8
+LazyData: true
